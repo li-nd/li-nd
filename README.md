@@ -1,4 +1,4 @@
-[![Banner](https://github.com/VSKut/VSKut/blob/main/assets/banner.jpg)](https://github.com/VSKut)
+[![Banner](https://github.com/mark-lind/mark-lind/blob/main/assets/banner.jpg)](https://github.com/mark-lind)
 
 <div align="center">
 
@@ -66,9 +66,9 @@ const currentFocus = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VSKut)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mark-lind)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vskut/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@vskut.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markus@contact.pm)
 
 </div>
 
@@ -87,7 +87,7 @@ const currentFocus = {
 <div align="center">
 
 ### ⚡ Quick Stats
-![Profile Views](https://komarev.com/ghpvc/?username=VSKut&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=mark-lind&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **Thanks for stopping by!** ✨
 
